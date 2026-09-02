@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: Login
+  data:
+    mongodb:
+      auto-index-creation: true
+      uri: mongodb+srv://Ana:Pepebia02@ana.9jzcno7.mongodb.net/?appName=ana
